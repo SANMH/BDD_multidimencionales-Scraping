@@ -3,7 +3,7 @@
 
 
 el objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
-![enter image description here](https://cdn.clipart.email/b180b9565b4028a3cfa4a1549fb2924d_facebook-twitter-instagram-png-facebook-twitter-instagram-png-_1080-576.png)
+https://raw.githubusercontent.com/SANMH/BDD_multidimencionales-Scraping/master/img/logoepn.jpg
 **Integrantes
 >**Fernando Sanmartin			
 >Bryan Farinango
