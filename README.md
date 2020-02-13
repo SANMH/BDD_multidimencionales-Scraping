@@ -140,5 +140,6 @@ import couchdb #Libreria de CouchDB (requiere ser instalada primero)
 
 ## DATALAKE
 
+<p align="center"> <img src="./img/4.png" width="600"/></p>
 
 
