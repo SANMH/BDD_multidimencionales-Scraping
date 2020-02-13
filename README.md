@@ -19,11 +19,11 @@ El objetivo de este proyecto es centralizar la información de diversas fuentes 
 -Kibana
 <p align="center"> <img src="./img/2.png" width="350"/></p>
 -Python
-![enter image description here](https://gameartschool.eu/wp-content/uploads/2018/09/python-logo-master-v3-TM.png)
+<p align="center"> <img src="./img/3.png" width="350"/</p>
 -CouchDB (noSQL)
 -MongoDB (noSQL)
 -MySql (SQL)
-![enter image description here](https://image.slidesharecdn.com/20100123dodugi-alt-100124141539-phpapp02/95/couchdb-vs-mongodb-2-728.jpg?cb=1285493025)
+<p align="center"> <img src="./img/3.jpg" width="350"/</p>
 
 ## Carpetas y archivos
 
