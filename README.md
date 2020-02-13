@@ -1,5 +1,5 @@
 # Proyecto de bases de datos multidimensional.
-<p align="center"> <img src="./img/logoepn.jpg" width="350"/</p>
+<p align="center"> <img src="./img/logoepn.jpg" width="350"/></p>
 
 El objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
 
@@ -18,12 +18,14 @@ El objetivo de este proyecto es centralizar la información de diversas fuentes 
 -Logstash
 -Kibana
 <p align="center"> <img src="./img/2.png" width="350"/></p>
+
 -Python
-<p align="center"> <img src="./img/3.png" width="350"/</p>
+<p align="center"> <img src="./img/3.png" width="350"/></p>
+   
 -CouchDB (noSQL)
 -MongoDB (noSQL)
 -MySql (SQL)
-<p align="center"> <img src="./img/3.jpg" width="350"/</p>
+<p align="center"> <img src="./img/3.jpg" width="350"/></p>
 
 ## Carpetas y archivos
 
