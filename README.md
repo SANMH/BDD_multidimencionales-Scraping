@@ -1,9 +1,8 @@
 # Proyecto de bases de datos multidimensional.
-![enter image description here](https://www.epn.edu.ec/wp-content/uploads/LOGO_EPN.jpg)
-
+https://raw.githubusercontent.com/SANMH/BDD_multidimencionales-Scraping/master/img/logoepn.jpg
 
 el objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
-https://raw.githubusercontent.com/SANMH/BDD_multidimencionales-Scraping/master/img/logoepn.jpg
+
 **Integrantes
 >**Fernando Sanmartin			
 >Bryan Farinango
