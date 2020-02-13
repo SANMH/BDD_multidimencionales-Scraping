@@ -81,6 +81,6 @@ twitterStream.filter(track=["AMTQuito","ATMGuayaquil","ECU911Loja","emov_ep","EC
 
 ## Recolectando Información en CouchDB
 
-
+<p align="center"> <img src="./img/1.png" width="600"/></p>
 
 
