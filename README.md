@@ -4,10 +4,13 @@ https://raw.githubusercontent.com/SANMH/BDD_multidimencionales-Scraping/master/i
 el objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
 
 **Integrantes
->**Fernando Sanmartin			
+>Fernando Sanmartin	
+
 >Bryan Farinango
+
 >Bryan Perez
->Dennis Nunez**
+
+>Dennis Nunez
 
 # Software usado
 
