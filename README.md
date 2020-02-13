@@ -1,7 +1,7 @@
 # Proyecto de bases de datos multidimensional.
-https://raw.githubusercontent.com/SANMH/BDD_multidimencionales-Scraping/master/img/logoepn.jpg
+<p align="center"> <img src="./img/logoepn.jpg" width="350"/</p>
 
-el objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
+El objetivo de este proyecto es centralizar la información de diversas fuentes de información como los son bases de datos de naturaleza SQL y noSQL ademas de información raspada desde la web de algun sitio como: **Tweeter, facebook e Instagran**.
 
 **Integrantes
 >Fernando Sanmartin	
@@ -17,7 +17,7 @@ el objetivo de este proyecto es centralizar la información de diversas fuentes 
 -ElasticSearch
 -Logstash
 -Kibana
-![imagen 1 funcionamiento de dataLake Tenemos todas nuestras fuentes de datos, que envían información a Logstash, que al tener muchos plugins de entrada y salida, podemos introducir gran cantidad de datos. Esos datos son procesados antes de almacenarlos en la base de datos de Elasticsearch, y con Kibana se montan las visualizaciones que accedan a esa información, para poder así monitorizarlas.](https://dc722jrlp2zu8.cloudfront.net/media/cache/ac/fb/acfb8540e183c26ce471e0370d80d470.webp)
+<p align="center"> <img src="./img/2.png" width="350"/></p>
 -Python
 ![enter image description here](https://gameartschool.eu/wp-content/uploads/2018/09/python-logo-master-v3-TM.png)
 -CouchDB (noSQL)
