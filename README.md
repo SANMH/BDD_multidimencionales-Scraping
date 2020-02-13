@@ -12,7 +12,7 @@ El objetivo de este proyecto es centralizar la información de diversas fuentes 
 
 >Dennis Nunez
 
-<p align="center"> <img src="./img/6.png" width="350"/></p>
+<p align="center"> <img src="./img/5.png" width="350"/></p>
 
 # Software usado
 
