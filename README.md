@@ -145,3 +145,29 @@ import couchdb #Libreria de CouchDB (requiere ser instalada primero)
 <p align="center"> <img src="./img/4.png" width="600"/></p>
 
 
+## Importar datos CSV a una base de datos MySQL
+
+En este caso se hara uso de un script en Python en el cual seran necesarias tres librerias las cuales se deberan instalar previamente antes de ejecutar el script.
+
+Librerias:
+
+Estas dos primeras nos serviran tanto para leer el archivo CSV como establecer conexion con MySQL respectivamente.
+   - pandas
+   - sqlalchemy
+
+La siguiente libreria nos servira para ejcutar las sentencia SQL e insertar los datos recolectados en la base de datos.
+   - MySQL-Python
+
+A continuación, se procede a detallar el codigo respectivo del script:
+
+   - Primero se importa las librerias mencionadas anteriormente.
+
+"import pandas as pd
+from sqlalchemy import create_engine"
+
+   - Haciendo uso de la libreria 'pandas', procedemos a leer el archivo CSV con la función 'read_csv()' enviando como parametros: el directorio del archivo CSV que se va a importar, la localizacion de la cabecera del archivo, la codificación de carateres que posee el archivo y con la funcion 'print()' se procede a mostrar los datos obtenidos.
+   
+"df = pd.read_csv('C:/proyecto/bdd-servicios-2012empalme.csv', header = 0, encoding='latin-1')
+print(df)"
+
+   - Mediante el uso de la libreria 'sqlalchemy' se procede a establecer conexion con MySQL con la funcion 'create_engine()', a la cual se le enviara el parametro de nuestra cadena de conexión seguida del nombre de la base de datos en la cual se almacenaran los datos extraidos y finalmente utilizando la funcion 'to_sql()' se procede a insertar los datos extraidos en la base de datos preciamente seleccionada.
